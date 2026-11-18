@@ -6,7 +6,7 @@ Most of my work lives in **private client repos**, so the graph below is the bes
 
 ### What I'm building
 - **[Rojak](https://rojak.io)**: employer and culture platform for Singapore
-- **[Kering]([http://43.163.0.197/bali/kering/](http://43.163.0.197/bali/kering/#satellite))**: village-level water-stress map for south Bali
+- **[Kering](http://43.163.0.197/bali/kering/#satellite)**: village-level water-stress map for south Bali
 
 ### Stack
 JavaScript · TypeScript · HTML · <add yours, e.g. Next.js, Supabase>
