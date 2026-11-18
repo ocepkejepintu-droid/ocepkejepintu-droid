@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+[![ocepkejepintu-droid's GitHub stats](https://gitshine.com/card/ocepkejepintu-droid)](https://gitshine.com/stats/ocepkejepintu-droid)
 [![ocepkejepintu-droid's GitHub badges](https://gitshine.com/badges/ocepkejepintu-droid)](https://gitshine.com/stats/ocepkejepintu-droid#badges)
